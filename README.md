@@ -42,4 +42,3 @@ python3 -m pip install -U pygame --user
 python scene.py
 ```
 2. Follow the in-game instructions and make choices by interacting with the provided options.
-3. Enjoy your adventure to Vietnam while discovering the Christian God!
